@@ -1,3 +1,3 @@
 # git-test
 
-Versionen fra conflict-test
+Versionen fra main
